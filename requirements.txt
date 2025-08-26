@@ -50,8 +50,8 @@
 # Just update the list below and re-run this command. 
 
 ### Windows Command (don't include the #):
-# py -m pip install --upgrade pip setuptools wheel
-# py -m pip install -r requirements.txt
+# python -m pip install --upgrade pip setuptools wheel
+# python -m pip install -r requirements.txt
 
 ### Mac/Linux Command (don't include the #):
 # python3 -m pip install --upgrade pip setuptools wheel
