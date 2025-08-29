@@ -48,7 +48,7 @@ def get_message_interval() -> int:
     To use handy functions like this, import the os module 
     from the Python Standard Library (see above).
     """
-    return_value: str = os.getenv("MESSAGE_INTERVAL_SECONDS", 3)
+    return_value: str = os.getenv("MESSAGE_INTERVAL_SECONDS", 10)
     interval: int = int(return_value)
     logger.info(f"Messages will be sent every {interval} seconds.")
     return interval
@@ -58,10 +58,19 @@ def get_message_interval() -> int:
 # Define global variables
 #####################################
 
-# Define some lists for generating buzz messages
-ADJECTIVES: list = ["amazing", "funny", "boring", "exciting", "weird"]
-ACTIONS: list = ["found", "saw", "tried", "shared", "loved"]
-TOPICS: list = ["a movie", "a meme", "an app", "a trick", "a story"]
+# Lists for generating concert-related buzz messages
+BANDS: list = ["Excision", "Hozier", "Ashnikko", "T-Pain", "Qveen Herby"]
+VENUES: list = ["Uptown Theater", "Midland Theater", "Cable Dahmer Arena", "The Truman", "Azura Amphitheater"]
+SEASONS: list = ["summer", "fall", "spring", "winter"]
+
+# Templates for message variety
+TEMPLATES: list = [
+    "I’ll never forget seeing {band} at {venue} in the {season}.",
+    "One of the best concerts ever was {band} performing at {venue} during the {season}.",
+    "I loved the {season} when I saw {band} live at {venue}.",
+    "Seeing {band} at {venue} in the {season} was unforgettable!",
+    "The {season} concert with {band} at {venue} was pure magic."
+]
 
 #####################################
 # Define a function to generate buzz messages
@@ -80,10 +89,11 @@ def generate_messages():
     until we close the window or hit CTRL c (CMD c on Mac/Linux).
     """
     while True:
-        adjective = random.choice(ADJECTIVES)
-        action = random.choice(ACTIONS)
-        topic = random.choice(TOPICS)
-        yield f"I just {action} {topic}! It was {adjective}."
+        band = random.choice(BANDS)
+        venue = random.choice(VENUES)
+        season = random.choice(SEASONS)
+        template = random.choice(TEMPLATES)
+        yield template.format(band=band, venue=venue, season=season)
 
 
 #####################################
