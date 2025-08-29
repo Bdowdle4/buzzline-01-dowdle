@@ -210,3 +210,75 @@
 2025-08-26 20:09:42.741 | INFO     | __main__:main:114 - I just loved a trick! It was weird.
 2025-08-26 20:09:45.742 | INFO     | __main__:main:114 - I just loved a meme! It was exciting.
 2025-08-26 20:09:48.744 | INFO     | __main__:main:114 - I just saw a trick! It was weird.
+2025-08-29 15:44:18.223 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-08-29 15:44:18.250 | INFO     | __main__:main:116 - START producer...
+2025-08-29 15:44:18.250 | INFO     | __main__:main:117 - Hit CTRL c (or CMD c) to close.
+2025-08-29 15:44:18.250 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-08-29 15:44:18.250 | INFO     | __main__:main:124 - Seeing Excision at Azura Amphitheater in the spring was unforgettable!
+2025-08-29 15:44:21.252 | INFO     | __main__:main:124 - I loved the spring when I saw Hozier live at Cable Dahmer Arena.
+2025-08-29 15:44:24.255 | INFO     | __main__:main:124 - The winter concert with T-Pain at Midland Theater was pure magic.
+2025-08-29 15:44:27.257 | INFO     | __main__:main:124 - Seeing Excision at Midland Theater in the fall was unforgettable!
+2025-08-29 15:44:30.258 | INFO     | __main__:main:124 - The winter concert with Qveen Herby at Uptown Theater was pure magic.
+2025-08-29 15:44:33.260 | INFO     | __main__:main:124 - I’ll never forget seeing T-Pain at Azura Amphitheater in the fall.
+2025-08-29 15:44:36.263 | INFO     | __main__:main:124 - I’ll never forget seeing T-Pain at Azura Amphitheater in the winter.
+2025-08-29 15:44:39.264 | INFO     | __main__:main:124 - One of the best concerts ever was Excision performing at Azura Amphitheater during the spring.
+2025-08-29 15:44:42.266 | INFO     | __main__:main:124 - I loved the spring when I saw Qveen Herby live at Uptown Theater.
+2025-08-29 15:44:45.268 | INFO     | __main__:main:124 - One of the best concerts ever was T-Pain performing at Cable Dahmer Arena during the winter.
+2025-08-29 15:44:48.270 | INFO     | __main__:main:124 - I loved the winter when I saw T-Pain live at Uptown Theater.
+2025-08-29 15:44:51.270 | INFO     | __main__:main:124 - The winter concert with Qveen Herby at The Truman was pure magic.
+2025-08-29 15:44:54.271 | INFO     | __main__:main:124 - The winter concert with Qveen Herby at Cable Dahmer Arena was pure magic.
+2025-08-29 15:44:57.273 | INFO     | __main__:main:124 - I’ll never forget seeing Hozier at Uptown Theater in the spring.
+2025-08-29 15:45:00.276 | INFO     | __main__:main:124 - The spring concert with Hozier at The Truman was pure magic.
+2025-08-29 15:45:03.277 | INFO     | __main__:main:124 - The fall concert with Ashnikko at Cable Dahmer Arena was pure magic.
+2025-08-29 15:45:06.278 | INFO     | __main__:main:124 - I loved the fall when I saw Qveen Herby live at Uptown Theater.
+2025-08-29 15:45:09.280 | INFO     | __main__:main:124 - I’ll never forget seeing Ashnikko at Uptown Theater in the fall.
+2025-08-29 15:45:12.282 | INFO     | __main__:main:124 - Seeing Qveen Herby at Uptown Theater in the summer was unforgettable!
+2025-08-29 15:45:15.283 | INFO     | __main__:main:124 - I’ll never forget seeing Excision at The Truman in the winter.
+2025-08-29 15:45:18.287 | INFO     | __main__:main:124 - Seeing T-Pain at The Truman in the spring was unforgettable!
+2025-08-29 15:45:21.287 | INFO     | __main__:main:124 - One of the best concerts ever was Hozier performing at Midland Theater during the fall.
+2025-08-29 15:45:24.289 | INFO     | __main__:main:124 - I’ll never forget seeing Excision at Midland Theater in the fall.
+2025-08-29 15:45:27.290 | INFO     | __main__:main:124 - I’ll never forget seeing Ashnikko at Azura Amphitheater in the spring.
+2025-08-29 15:45:30.291 | INFO     | __main__:main:124 - I’ll never forget seeing Excision at Azura Amphitheater in the winter.
+2025-08-29 15:45:33.292 | INFO     | __main__:main:124 - Seeing Ashnikko at Uptown Theater in the winter was unforgettable!
+2025-08-29 15:45:36.293 | INFO     | __main__:main:124 - One of the best concerts ever was Excision performing at Azura Amphitheater during the spring.
+2025-08-29 15:45:38.925 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-08-29 15:45:38.925 | INFO     | __main__:main:68 - START...
+2025-08-29 15:45:38.925 | INFO     | __main__:main:74 - Reading file located at logs\project_log.log.
+2025-08-29 15:45:39.296 | INFO     | __main__:main:124 - I loved the fall when I saw Qveen Herby live at Azura Amphitheater.
+2025-08-29 15:45:42.297 | INFO     | __main__:main:124 - I loved the winter when I saw T-Pain live at The Truman.
+2025-08-29 15:45:45.298 | INFO     | __main__:main:124 - I loved the spring when I saw Qveen Herby live at Cable Dahmer Arena.
+2025-08-29 15:45:48.299 | INFO     | __main__:main:124 - One of the best concerts ever was Qveen Herby performing at Midland Theater during the winter.
+2025-08-29 15:45:51.301 | INFO     | __main__:main:124 - The winter concert with T-Pain at The Truman was pure magic.
+2025-08-29 15:45:54.303 | INFO     | __main__:main:124 - Seeing Qveen Herby at Azura Amphitheater in the fall was unforgettable!
+2025-08-29 15:45:57.304 | INFO     | __main__:main:124 - Seeing T-Pain at Uptown Theater in the winter was unforgettable!
+2025-08-29 15:46:00.307 | INFO     | __main__:main:124 - Seeing Hozier at Cable Dahmer Arena in the summer was unforgettable!
+2025-08-29 15:46:03.308 | INFO     | __main__:main:124 - I loved the spring when I saw Ashnikko live at The Truman.
+2025-08-29 15:46:06.309 | INFO     | __main__:main:124 - The winter concert with Excision at Cable Dahmer Arena was pure magic.
+2025-08-29 15:46:09.312 | INFO     | __main__:main:124 - One of the best concerts ever was Ashnikko performing at The Truman during the fall.
+2025-08-29 15:46:12.314 | INFO     | __main__:main:124 - One of the best concerts ever was Excision performing at Uptown Theater during the spring.
+2025-08-29 15:46:15.316 | INFO     | __main__:main:124 - Seeing Excision at Midland Theater in the spring was unforgettable!
+2025-08-29 15:46:18.317 | INFO     | __main__:main:124 - Seeing Ashnikko at Cable Dahmer Arena in the winter was unforgettable!
+2025-08-29 15:46:21.320 | INFO     | __main__:main:124 - The spring concert with Hozier at Midland Theater was pure magic.
+2025-08-29 15:46:24.324 | INFO     | __main__:main:124 - One of the best concerts ever was T-Pain performing at Midland Theater during the summer.
+2025-08-29 15:46:27.326 | INFO     | __main__:main:124 - One of the best concerts ever was Ashnikko performing at Uptown Theater during the fall.
+2025-08-29 15:46:30.327 | INFO     | __main__:main:124 - I’ll never forget seeing Qveen Herby at The Truman in the spring.
+2025-08-29 15:46:33.334 | INFO     | __main__:main:124 - One of the best concerts ever was T-Pain performing at Midland Theater during the spring.
+2025-08-29 15:46:36.335 | INFO     | __main__:main:124 - The winter concert with Hozier at Cable Dahmer Arena was pure magic.
+2025-08-29 15:46:39.336 | INFO     | __main__:main:124 - Seeing Excision at Midland Theater in the spring was unforgettable!
+2025-08-29 15:46:42.338 | INFO     | __main__:main:124 - I loved the summer when I saw Excision live at Azura Amphitheater.
+2025-08-29 15:46:45.344 | INFO     | __main__:main:124 - I’ll never forget seeing Hozier at Azura Amphitheater in the winter.
+2025-08-29 15:46:48.346 | INFO     | __main__:main:124 - I loved the fall when I saw Hozier live at Azura Amphitheater.
+2025-08-29 15:46:51.348 | INFO     | __main__:main:124 - I loved the summer when I saw Hozier live at Midland Theater.
+2025-08-29 15:46:54.352 | INFO     | __main__:main:124 - I’ll never forget seeing T-Pain at The Truman in the fall.
+2025-08-29 15:46:57.353 | INFO     | __main__:main:124 - Seeing T-Pain at Midland Theater in the spring was unforgettable!
+2025-08-29 15:47:00.357 | INFO     | __main__:main:124 - I’ll never forget seeing T-Pain at Midland Theater in the fall.
+2025-08-29 15:47:00.504 | INFO     | __main__:main:85 - END.....
+2025-08-29 15:47:03.359 | INFO     | __main__:main:124 - The spring concert with Excision at Cable Dahmer Arena was pure magic.
+2025-08-29 15:47:06.364 | INFO     | __main__:main:124 - One of the best concerts ever was Ashnikko performing at Midland Theater during the winter.
+2025-08-29 15:47:09.366 | INFO     | __main__:main:124 - I loved the summer when I saw Qveen Herby live at Midland Theater.
+2025-08-29 15:47:12.367 | INFO     | __main__:main:124 - I loved the fall when I saw Ashnikko live at Midland Theater.
+2025-08-29 15:47:15.369 | INFO     | __main__:main:124 - I loved the spring when I saw Qveen Herby live at Cable Dahmer Arena.
+2025-08-29 15:47:18.371 | INFO     | __main__:main:124 - One of the best concerts ever was T-Pain performing at Cable Dahmer Arena during the fall.
+2025-08-29 15:47:21.372 | INFO     | __main__:main:124 - I loved the summer when I saw Excision live at Uptown Theater.
+2025-08-29 15:47:24.373 | INFO     | __main__:main:124 - One of the best concerts ever was Ashnikko performing at Midland Theater during the fall.
+2025-08-29 15:47:27.375 | INFO     | __main__:main:124 - One of the best concerts ever was Excision performing at Uptown Theater during the fall.
